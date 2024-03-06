@@ -30,7 +30,8 @@ public class InitializerBlockProblems {
 	 static boolean[] b;
 	
 	 static{
-//		 b = {true, true, false};
+//		 b = {true, true, false}; // yanlis tanimlama
+//		 b = new boolean[]{true, true, false}; // dogru tanimlama
 	 }
 	
 	int t = 10;

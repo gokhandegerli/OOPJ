@@ -1,6 +1,6 @@
 package org.javaturk.oopj.ch10.packaging.packageB;
 
-import org.*; // Only imports the classes under the package "org"
+//import org.*; // Only imports the classes under the package "org"
 
 import org.javaturk.oopj.ch10.packaging.packageX.ClassX;
 import org.javaturk.oopj.ch10.packaging.packageX.ClassZ;
